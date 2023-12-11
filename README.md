@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a vet student in ZJU. manged to pass 1-ji exam in kendo of CKOU.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beef-potato&show_icons=true&theme=swift)](https://github.com/beef-potato/github-readme-stats)
